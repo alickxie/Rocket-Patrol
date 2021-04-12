@@ -8,3 +8,6 @@ let config = {
 let game = new Phaser.Game(config);
 
 console.log("test!");
+console.log("test!");
+console.log("test!");
+console.log("test!");
